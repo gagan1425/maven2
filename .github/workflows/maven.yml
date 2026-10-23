@@ -1,4 +1,4 @@
-name: Java CI/CD Pipieline
+name: Java CI/CD Pipeline
 
 on: 
     push:
